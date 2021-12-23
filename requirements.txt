@@ -1,0 +1,6 @@
+django
+matplotlib
+pandas
+django-cors-headers
+django-session-timeout
+mysqlclient

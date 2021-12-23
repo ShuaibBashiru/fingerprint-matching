@@ -1,0 +1,46 @@
+{
+    "settings":{
+        "ownerstatus": "",
+        "ownername": "",
+        "facebook": "https://www.facebook.com/",
+        "twitter": "https://www.twitter.com/",
+        "instagram": "https://www.instagram.com/",
+        "youtube": "https://www.youtube.com/",
+        "linkedin": "https://www.linkedin.com/",
+        "officialemail": "info@thissite.org.ng",
+        "email_one": "info@thissite.org.ng",
+        "email_two": "info@thissite.org.ng",
+        "displayEmail": "info@thissite.org.ng",
+        "phone_one": "+2348172790181",
+        "phone_two": "+2348172790181",
+        "displayPhone": "+0000000000000, +0000000000000",
+        "address": "Yaba, Lagos, Nigeria.",
+        "copyright": "All Rights Reserved",
+        "copyriowneraboutght": "All Rights Reserved"
+    },
+    
+    "appinfo":{
+        "appname": "Identical Finger Checker",
+        "year": "2021",
+        "displaynamecap": "Identical Finger Checker",
+        "displaynamelower": "Identical Finger Checker",
+        "sloganslide": "",
+        "copyright": "",
+        "bg_color": "bg-light",
+        "css":{
+            "headerbg": "background: #ffffff; box-shadow:1px 0px 0px 1px #ccc;",
+            "dash_headerbg": "background: #3d8160; box-shadow:1px 0px 0px 1px #ccc;",
+            "dash_bodycolor": "color: #ffffff;",
+            "headercolor": "",
+            "sidebarbg": "background: #2a6e4d;",
+            "bodycolor": "color: black;"
+        },
+        "logo": "logo.png",
+        "logoHeight": 36,
+        "logoWidth": 40
+    },
+    "error":{
+        "networkerror": "Network error! refresh and try again."
+    }
+    
+    }
